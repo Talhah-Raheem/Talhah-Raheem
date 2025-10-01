@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalashub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Talhah-Raheem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 ---
@@ -34,8 +34,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalashub&show_icons=true&theme=radical" alt="Talhah's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalashub&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Talhah-Raheem&show_icons=true&theme=radical" alt="Talhah's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah-Raheem&layout=compact&theme=radical" alt="Top Langs" height="180" />
 </p>
 
 ---

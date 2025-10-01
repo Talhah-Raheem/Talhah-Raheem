@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hi 👋, I'm Talhah</h1>
 <p align="center">
-  <em>Senior CS student @ CSUF • AI tinkerer • Hackathon builder</em>
+  <em>Senior CS student @ CSUF</em>
 </p>
 
 <p align="center">
